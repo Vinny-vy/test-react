@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vinny-vy/test-react.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Vinny-vy/test-react.git/static/js/main.9651e6f8.chunk.js",
+    "main.js.map": "/Vinny-vy/test-react.git/static/js/main.9651e6f8.chunk.js.map",
+    "runtime-main.js": "/Vinny-vy/test-react.git/static/js/runtime-main.32d454df.js",
+    "runtime-main.js.map": "/Vinny-vy/test-react.git/static/js/runtime-main.32d454df.js.map",
+    "static/js/2.2b1f4b48.chunk.js": "/Vinny-vy/test-react.git/static/js/2.2b1f4b48.chunk.js",
+    "static/js/2.2b1f4b48.chunk.js.map": "/Vinny-vy/test-react.git/static/js/2.2b1f4b48.chunk.js.map",
+    "index.html": "/Vinny-vy/test-react.git/index.html",
+    "precache-manifest.d78c8e94efb737116cee250a4cddab85.js": "/Vinny-vy/test-react.git/precache-manifest.d78c8e94efb737116cee250a4cddab85.js",
+    "service-worker.js": "/Vinny-vy/test-react.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Vinny-vy/test-react.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2b1f4b48.chunk.js.LICENSE": "/Vinny-vy/test-react.git/static/js/2.2b1f4b48.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Vinny-vy/test-react.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d454df.js",
+    "static/js/2.2b1f4b48.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9651e6f8.chunk.js"
+  ]
+}
